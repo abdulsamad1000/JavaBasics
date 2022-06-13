@@ -19,7 +19,7 @@ public class Task2 {
 		System.out.println("Do you have a credit card? or Not");
 		String answer= scan.next();
 		
-		if (answer.equalsIgnorCase("no")) {
+		if (answer.equalsIgnoreCase("no")) {
 			System.out.println("We will offer you a credit card");
 			
 		}else {

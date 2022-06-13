@@ -11,20 +11,11 @@ public class ProjectHomeWork02 {
 			Scanner scan=new Scanner(System.in);
 			System.out.println("Enter the country names");
 			String[]country=new String[3];
-			int size=scan.nextint
+			int size=scan.nextInt();
 					
 				}
-			}
-			
-			
-			
-			
-			
-			
-			
-			
 		
 
 	}
 
-}
+

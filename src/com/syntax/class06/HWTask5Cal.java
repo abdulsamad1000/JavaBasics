@@ -6,7 +6,7 @@ public class HWTask5Cal {
 
 	public static void main(String[] args) {
 		/*
-		 * use a scanner class use a calculator
+		 * use a scanner class to create a calculator
 		 * allow user to put 2 number and operators (+,-,/,*)
 		 * base on operator provide the result to the user
 		 * please complete this assignment in 2 ways if statement and switch case.

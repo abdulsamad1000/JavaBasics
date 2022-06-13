@@ -40,7 +40,7 @@ public class PracticeForJava {
 	div1=price/price1;
 	System.out.println(div1);
 	System.out.println("============================================");
-	int 
+	
 	
 	
 		
